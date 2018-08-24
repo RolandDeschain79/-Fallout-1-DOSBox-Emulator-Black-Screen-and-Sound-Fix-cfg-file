@@ -1,4 +1,4 @@
-# -Fallout 1 cfg file Black Screen and Sound Fix for DOS Emulation 
+# -Fallout 1 DOS Emulation Black Screen and Sound Fix config file 
 -Fixes missing sound for Fallout 1 DOS emulation by setting device=57344 for Soundblaster 16
 
 -This will also fix the game not launching or getting stuck at a black screen
