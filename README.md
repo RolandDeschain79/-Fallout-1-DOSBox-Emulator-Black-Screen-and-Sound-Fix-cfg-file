@@ -3,5 +3,6 @@
 
 -This will also fix the game not launching or getting stuck at a black screen
 
--This works with both PC DOSBox emulation and Android DOSBox emulation(DosBox Turbo, Magic DosBox)
+-This works with both PC DOSBox emulation and Android DOSBox emulation(DosBox Turbo, Magic DosBox, anDOSBox)
 
+-Note: Fallout 1 requires a larger memory size to launch or run well. For DosBox set memsize=64 for Dosbox Turbo set memsize=256 
